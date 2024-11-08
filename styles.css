@@ -10,14 +10,14 @@ header {
     color: rgb(90, 230, 248);
 }
 
-sections(
+section {
     background: #5c85c8; 
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify: center;
 
-)
+}
 
 .chamada-texto{
     margin-right: 5%;
