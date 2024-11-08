@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 255, 255);
     background: black;
+    font-family: "Sour Gummy", sans-serif;
 }
 
 header {
@@ -21,4 +22,12 @@ section {
 
 .chamada-texto{
     margin-right: 5%;
+}
+
+h1{
+    font-size: 36px;
+}
+
+p{
+    font-size: 20px;
 }
