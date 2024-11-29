@@ -2,6 +2,7 @@ body {
     color: rgb(255, 255, 255);
     background: black;
     font-family: "Sour Gummy", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -43,4 +44,14 @@ img {
   .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
   }
+
+  .categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
